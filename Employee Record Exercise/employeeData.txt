@@ -1,0 +1,63 @@
+10
+Manager
+Superman
+104000.00
+21 0
+n
+0
+Hourly
+Donald Duck
+20.00
+40.0
+10  1
+y
+5
+Temporary
+Popeye
+8.00
+20.0
+y
+0
+Intern
+Ronald Weasley
+1000.00
+N/A
+y
+0
+Manager
+Mickey Mouse
+52000.00
+14  2
+y
+2
+Hourly
+Pluto
+10.00
+50.0
+5  0
+n
+0
+Temporary
+Olive Oyl
+5
+41.0
+n
+1
+Intern
+Harry Potter
+2500
+Dumbledore
+n
+0
+Manager
+Dummy1
+10000.00
+10 15
+n
+0
+Intern
+Dummy2
+500.00
+Invisible
+y
+-1

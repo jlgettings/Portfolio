@@ -1,0 +1,25 @@
+4
+Manager
+Martha Jones
+90,000
+20 5
+y
+1
+Hourly
+River Song
+50
+15 14
+y
+0
+Temporary
+Clara Oswald
+35
+20 10
+n
+2
+Intern
+Donna Noble
+1000
+The Doctor
+y
+2
